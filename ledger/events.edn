@@ -1,0 +1,6 @@
+{:t :submit-failed, :round 0, :candidate-id "r0-c0", :reason "kotoba queue XRPC failed", :ledger/at "2026-07-12T13:24:46.861622Z"}
+{:t :submit-failed, :round 0, :candidate-id "r0-c1", :reason "kotoba queue XRPC failed", :ledger/at "2026-07-12T13:24:47.095628Z"}
+{:t :submit-failed, :round 0, :candidate-id "r0-c2", :reason "kotoba queue XRPC failed", :ledger/at "2026-07-12T13:24:47.268694Z"}
+{:t :submit-failed, :round 0, :candidate-id "r0-c0", :reason "kotoba did-derive failed", :ledger/at "2026-07-12T13:25:25.611375Z"}
+{:t :submit-failed, :round 0, :candidate-id "r0-c1", :reason "kotoba did-derive failed", :ledger/at "2026-07-12T13:25:25.635006Z"}
+{:t :submit-failed, :round 0, :candidate-id "r0-c2", :reason "kotoba did-derive failed", :ledger/at "2026-07-12T13:25:25.651836Z"}
