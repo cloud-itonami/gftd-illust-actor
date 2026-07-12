@@ -1,6 +1,6 @@
 (ns illust.cosci
   "Google co-scientist / AlphaEvolve-shaped tournament over one round of image
-  candidates (ADR-2607122200 §3), ported-in-shape from
+  candidates (ADR-2607122400 §3), ported-in-shape from
   `cloud_murakumo.cosci` (LLM-memory-strategy tournament) but with this
   actor's own candidate data. Same discipline: Reflection is a HARD pass/fail
   gate, not a soft score — a candidate that mostly-worked isn't a

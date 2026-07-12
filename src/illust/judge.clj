@@ -9,7 +9,7 @@
   TEXT for persona-fit and descriptive quality, not the rendered pixels the
   generation job actually produced. A real perceptual judge (CLIP aesthetic
   score, a vision-capable critique call) is follow-up work — see
-  ADR-2607122200 Consequences."
+  ADR-2607122400 Consequences."
   (:require [cheshire.core :as json]
             [clojure.string :as str])
   (:import [java.net URI]
